@@ -4,13 +4,15 @@ title: Ticker Badge Privacy Policy
 
 # Ticker Badge Privacy Policy
 
-**Effective date:** October 23, 2026
+**Effective date:** October 23, 2026 (updated for version 1.0.0)
 
 Ticker Badge is a Chrome extension that shows the stock ticker and price of the publicly traded company behind the website you're visiting. This policy explains what information the extension handles. In short: **Ticker Badge does not collect, sell or share your personal data. It has no accounts, no analytics and no tracking.**
 
 ## What the extension reads
 
-- **The address of the site you're on (hostname only, e.g. `nike.com`).** Used on your device to check whether the site belongs to a listed company in the extension's built-in list. It is not stored and is not sent anywhere.
+Ticker Badge **only runs on the websites of companies and fund companies in its built-in list** (for example nike.com, youtube.com, capitalgroup.com). On all other websites it does nothing and reads nothing.
+
+- **The address of the supported site you're on (hostname only, e.g. `nike.com`).** Used on your device to look up which company it belongs to. It is not stored and is not sent anywhere.
 - **The visible text of fund-company websites only** (for example capitalgroup.com). Used on your device to work out which of that company's own ETFs the page is about. It is not stored and is not sent anywhere. Page text is not read on any other website.
 
 The extension does not read your browsing history, form inputs, passwords, cookies or the full addresses (paths or query strings) of the pages you visit.
